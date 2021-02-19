@@ -24,31 +24,8 @@ function changeButton(boton) {
          ganaste();
       }
 }
-  
   function startTheGame(){
     reset();
-// boton1.disabled = false;
-// boton2.disabled = false;
-// boton3.disabled = false;
-// boton4.disabled = false;
-// boton5.disabled = false;
-// boton6.disabled = false;
-// boton7.disabled = false;
-// boton8.disabled = false;
-// boton9.disabled = false;
-
-  // if (document.getElementById("winner").innerHTML == "Ganaron azules." || document.getElementById("winner").innerHTML == "Ganaron rojos."){
-  // boton1.style.color = "black";
-  // boton2.style.color = "black";
-  // boton3.style.color = "black";
-  // boton4.style.color = "black";
-  // boton5.style.color = "black";
-  // boton6.style.color = "black";
-  // boton7.style.color = "black";
-  // boton8.style.color = "black";
-  // boton9.style.color = "black";
-  // }
-
 
   if (document.getElementById("winner").innerHTML == "JUEGA") {
     document.getElementById("winner").innerHTML = "Ta Te Ti";
