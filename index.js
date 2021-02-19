@@ -137,3 +137,5 @@ function colorReset() {
     boton9.style.color = "black";
     }
 }
+
+// A ver.
