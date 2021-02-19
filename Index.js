@@ -24,7 +24,7 @@ function changeButton(boton) {
       }
 }
   
-  function start() {
+  function startTheGame(){
 boton1.disabled = false;
 boton2.disabled = false;
 boton3.disabled = false;
